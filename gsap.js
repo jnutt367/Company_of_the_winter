@@ -1,0 +1,1 @@
+gsap.to("svg", { stroke: "black" })
