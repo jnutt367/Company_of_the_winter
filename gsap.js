@@ -1,1 +1,1 @@
-gsap.to("svg", { stroke: "black" })
+gsap.to("svg", { stroke: "black", strokeWidth: 2 })
